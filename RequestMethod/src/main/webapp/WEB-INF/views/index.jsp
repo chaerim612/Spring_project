@@ -1,0 +1,51 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index</title>
+</head>
+<body>
+	<h1>RequestMethod</h1>
+	<a href="test1">test1 get</a>
+	<form action="test1" method="post">
+		<button type="submit">test1 post</button>
+	</form>
+	
+	<hr />
+	
+	<a href="test2">test2 get</a>
+	<form action="test2" method="post">
+		<button type="submit">test2 post</button>
+	</form>
+	
+	<hr />
+	
+	<a href="test3_get">test3 get</a>
+	<form action="test3_post" method="post">
+		<button type="submit">test3 post</button>
+	</form>
+	
+	<hr />
+	
+	<a href="test4">test4 get</a>
+	<form action="test4" method="post">
+		<button type="submit">test4 post</button>
+	</form>
+	
+	<hr />
+	
+	<a href="test5">test5 get</a>
+	<form action="test5" method="post">
+		<button type="submit">test5 post</button>
+	</form>
+	
+	<hr />
+	
+	<a href="test7">test7 get</a>
+	<form action="test7" method="post">
+		<button type="submit">test7 post</button>
+	</form>
+</body>
+</html>
