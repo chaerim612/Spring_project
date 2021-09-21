@@ -7,7 +7,10 @@
 <title>Index</title>
 </head>
 <body>
-<h1>Hello Spring JAVA</h1>
-<img src="image/꼬맹.jpg" alt="" />
+<center>
+<h1></h1>
+</center>
+
+
 </body>
 </html>
