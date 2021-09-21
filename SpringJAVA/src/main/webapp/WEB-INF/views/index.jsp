@@ -7,10 +7,7 @@
 <title>Index</title>
 </head>
 <body>
-<h1>CommandObject</h1>
-<form action="test1" method="post">
-	data1 : <input type="text" name="data1" /> <br />
-	data2 : <input type="text" name="data2" /> <br />
-</form>
+<h1>Hello Spring Java</h1>
+<img src="image/icon-spring-framework.svg"/>
 </body>
 </html>
