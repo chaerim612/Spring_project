@@ -7,10 +7,14 @@
 <title>Index</title>
 </head>
 <body>
-<h1>CommandObject</h1>
-<form action="test1" method="post">
-	data1 : <input type="text" name="data1" /> <br />
-	data2 : <input type="text" name="data2" /> <br />
-</form>
+<h1>ViewResolver</h1>
+<hr />
+<a href="test1?data1=100&data2=200">test1</a>
+<hr />
+<a href="test2">test2</a>
+<hr />
+<a href="test3">test3</a>
+<hr />
+<a href="test4">test4</a>
 </body>
 </html>
